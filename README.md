@@ -1,5 +1,5 @@
 # IOT_Project_CArduino
-IOT project includind studeis of different modules like Voice Rcognition, Infrared and Bluetooth modules for car controls. And finally automation trial using GPS module and Stack datastructure.
+IOT project including studies of different modules like Voice Rcognition, Infrared and Bluetooth modules for car controls. And finally automation trial using GPS module and Stack datastructure.
 
 ![carduino](https://user-images.githubusercontent.com/73243338/120114613-97753800-c19d-11eb-89e6-9b37cccce64a.jpg)
 
